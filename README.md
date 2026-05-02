@@ -60,6 +60,8 @@ Provide a frontal face image inside:
 ---
 
 ## 🧩 Project Structure
+
+
 Face3D_AutoMask_Outpaint/
 │
 ├── 0_input/
@@ -71,21 +73,19 @@ Face3D_AutoMask_Outpaint/
 ├── prompts.txt
 ├── transforms.json
 ├── view_facelift.py
-│
 ├── requirements.txt
 ├── README.md
 └── .gitignore
 
+## 🎯 Features
 
+- Automated pipeline  
+- LLM-based prompt refinement  
+- Realistic diffusion outpainting  
+- Identity-preserving generation  
+- 2D to 3D reconstruction  
 
-Features:
-Automated pipeline
-LLM-based prompt refinement
-Realistic diffusion outpainting
-Identity-preserving generation
-2D to 3D reconstruction
+## 👨‍💻 Author
 
-👨‍💻 Author
-
-Ishank
+**Ishank**  
 M.Tech (CSE)
