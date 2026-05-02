@@ -1,0 +1,35 @@
+# Python environments
+venv/
+facelift_env/
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Heavy models/checkpoints
+models/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+
+# Large outputs
+previous_outputs/
+diff-gaussian-rasterization/
+FaceLift/
+*.mp4
+*.avi
+*.obj
+*.ply
+*.npz
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db

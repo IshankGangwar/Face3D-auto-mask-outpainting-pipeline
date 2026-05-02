@@ -1,0 +1,36 @@
+1) Back of head + short hair, clean neck (most common)
+Generate the missing back of the head and continue the hairstyle realistically; match the same hair color and texture; keep hair short at the backside (above the neck) with a clean visible neck; do not change the face.
+
+2) Natural hair continuation + smooth blend (safe)
+Complete the back of the head with natural hair continuation and realistic strands; keep the same identity and face unchanged; maintain consistent lighting and hair density; keep hair ending above the neck.
+
+3) More volume at back + no background change
+Outpaint the back of the head with slightly fuller natural hair volume; keep face, eyes, lips exactly the same; keep the background color and lighting unchanged; no hair on the neck.
+
+4) Tidy hairstyle, controlled look
+Generate a neat, realistic back-of-head hairstyle matching the front; same hairline and hair color; keep the neck well-defined and clean; preserve the original face completely without stylization.
+
+5) Fix missing ear edges + back hair (if ear/hair edges need help)
+Fill any missing ear/hair boundary details naturally and generate the back of the head; match hair texture and direction; keep face unchanged; keep hair only above the neck with no stray hair on the neck.
+
+6) Very strict identity lock (strong constraint)
+Reconstruct only the missing back of head and hair; preserve the exact same face identity and facial features; realistic photo look, same lighting; clean neck visible, hair ends above the neck.
+
+
+1️⃣ Low Ponytail (most stable)
+Generate a natural low ponytail at the back of the head, matching the same hair color and texture; keep the face and front hairline unchanged; clean neck visible.
+
+2️⃣ Messy Bun (soft volume)
+Create a realistic messy bun at the back of the head with natural loose strands; preserve the exact same face and front hairstyle; maintain consistent lighting.
+
+3️⃣ Straight Long Hair (extended)
+Extend the hair into straight long hair flowing naturally down the back; keep front hair and face exactly the same; realistic strands and natural texture.
+
+4️⃣ Elegant High Bun
+Generate an elegant high bun at the back of the head; maintain the same face identity and front hair; clean neck and realistic hair texture.
+
+5️⃣ Soft Wavy Long Hair
+Outpaint soft wavy long hair at the back of the head; keep the face unchanged and maintain natural lighting; realistic hair strands and volume.
+
+6️⃣ Braided Ponytail
+Generate a neat braided ponytail at the back; match original hair color and density; keep face and front hairline unchanged.

@@ -1,0 +1,17 @@
+# ---------- Core ----------
+opencv-python==4.9.0.80
+pillow==10.2.0
+numpy==1.26.4
+tqdm==4.66.2
+
+# ---------- Face / Segmentation ----------
+mediapipe==0.10.14
+protobuf==4.25.3
+rembg==2.0.56
+onnxruntime==1.17.3
+
+# ---------- Diffusion ----------
+diffusers==0.27.2
+transformers==4.38.2
+accelerate==0.27.2
+safetensors==0.4.2
