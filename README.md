@@ -61,7 +61,7 @@ Provide a frontal face image inside:
 
 ## 🧩 Project Structure
 
-
+``` 
 Face3D_AutoMask_Outpaint/
 │
 ├── 0_input/
@@ -76,6 +76,7 @@ Face3D_AutoMask_Outpaint/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## 🎯 Features
 
